@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+/* error styling for error message to user*/
+.error {
+  font-size: 150%;
+  color: red;
+}
+
+/* for hiding error message */
+.hidden {
+  display: none;
+}
